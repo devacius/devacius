@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepansh Gupta</h1>
 <h3 align="center">A passionate Software Developer and Anime Geek from India</h3>
-<img src = "https://user-images.githubusercontent.com/81462832/270422166-d6170fa9-9261-48bd-9f39-ee0fe95355bf.png" align="right" width="400" alt="my banner">
+<img src = "https://github.com/devacius/devacius/issues/1#issue-1911956874" align="right" width="400" alt="my banner">
 - 🔭 I’m currently working on **Smart Attendance System**
 
 - 🌱 I’m currently learning **React Native, Redux,Typescript,Node.js**

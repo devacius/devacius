@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Deepansh Gupta</h1>
 <h3 align="center">A passionate Software Developer and Anime Geek from India</h3>
-<img src = "https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" width="400" alt="my banner">
+<img src = "https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" align="right" width="400" alt="my banner">
 - 🔭 I’m currently working on **Smart Attendance System**
 
 - 🌱 I’m currently learning **React Native, Redux,Typescript,Node.js**

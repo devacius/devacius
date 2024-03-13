@@ -18,14 +18,8 @@
 
 - ⚡ Fun fact **I am an Anime geek , I have read over 350+ mangas,manhuas and watched all main stream animes. Name the anime and I will tell about the ending which is not show.😂**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devacius&show_icons=true&locale=en&layout=compact" alt="devacius" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devacius&" alt="devacius" /></p>

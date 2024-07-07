@@ -17,7 +17,8 @@
 
 
 
-- ⚡ Fun fact **I am an Anime geek , I have read over 350+ mangas,manhuas and watched all main stream animes. Name the anime and I will tell about the ending which is not show.😂**
+- ⚡ Fun fact **I am an Anime geek , I have read over 350+ mangas,manhuas and watched all main stream animes. Name the anime and I will tell about the ending which is not shown yet.😂**
+
 
 
 

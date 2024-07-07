@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **deepanshgupta27092020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1aI0vmohxFOI0DQMhmxJaExSegEp0h6zC?usp=drive_link](https://drive.google.com/drive/folders/1aI0vmohxFOI0DQMhmxJaExSegEp0h6zC?usp=drive_link)
+
 
 - ⚡ Fun fact **I am an Anime geek , I have read over 350+ mangas,manhuas and watched all main stream animes. Name the anime and I will tell about the ending which is not show.😂**
 

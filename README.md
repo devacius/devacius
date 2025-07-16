@@ -3,21 +3,17 @@
 <h1 align="center">Hi 👋, I'm Deepansh Gupta</h1>
 <h3 align="center">A passionate Software Developer and Anime Geek from India</h3>
 <img src = "https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" align="right" width="400" alt="my banner">
-- 🔭 I’m currently working on **Smart Attendance System**
+- 🔭 I’m currently working as Full Stack Developer in a US based Startup.
 
-- 🌱 I’m currently learning **React Native, Redux,Typescript,Node.js**
+- 🌱 I’m currently learning **LLMS, Machine Learning and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **python projects and Web Development Projects**
-
-- 📝 I regularly write articles on [https://medium.com/@devaciusaboveall789456](https://medium.com/@devaciusaboveall789456)
-
-- 💬 Ask me about **react , anaconda,javascript, Competitive programming,C++**
+- 👯 I’m looking to collaborate on any Project which scares the shit out of me . 
 
 - 📫 How to reach me **deepanshgupta27092020@gmail.com**
 
 
 
-- ⚡ Fun fact **I am an Anime geek , I have read over 350+ mangas,manhuas and watched all main stream animes. Name the anime and I will tell about the ending which is not shown yet.😂**
+- ⚡ Fun fact **I am not a workholic person but will give give anything to work on difficult and really interesting problem . I exercise , spend time with my family but what I love the most is working on an application which solves a problem mine or for other people. I am really good at problem solving and like to try new things on the way . **
 
 
 

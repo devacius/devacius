@@ -1,22 +1,11 @@
+<h1 align="center">Hi, I'm Deepansh Gupta</h1> <h3 align="center">Senior Software Developer and unapologetic Anime Enjoyer from India</h3> 
+I’m currently working as a Full Stack Developer at a US-based startup, building things that occasionally behave on the first try (miracles do happen).
 
-<h1 align="center">Hi 👋, I'm Deepansh Gupta</h1>
-<h3 align="center">A passionate Software Developer and Anime Geek from India</h3>
-<img src = "https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" align="right" width="400" alt="my banner">
-- 🔭 I’m currently working as Full Stack Developer in a US based Startup.
+These days I’m diving deep into LLMs, Machine Learning, and Artificial Intelligence—because apparently I wasn’t confused enough already.
 
-- 🌱 I’m currently learning **LLMS, Machine Learning and Artificial Intelligence**
+I’m open to collaborating on any project that has the potential to mildly terrify me or ruin my weekend in a fun way.
 
-- 👯 I’m looking to collaborate on any Project which scares the shit out of me . 
+You can reach me at deepanshgupta27092020@gmail.com
+ in case you have interesting problems, opportunities, or life-changing memes.
 
-- 📫 How to reach me **deepanshgupta27092020@gmail.com**
-
-
-
-- ⚡ Fun fact **I am not a workholic person but will give give anything to work on difficult and really interesting problem . I exercise , spend time with my family but what I love the most is working on an application which solves a problem mine or for other people. I am really good at problem solving and like to try new things on the way . **
-
-
-
-
-
-
-
+Fun fact: I’m not a workaholic, but I will absolutely drop everything to work on a tricky problem or an idea that refuses to leave my brain. I spend time with my family, I exercise, I try to be a sane human—but nothing feels as good as building something that actually solves a real problem. I love tackling tough challenges, breaking things, fixing them again, and learning whatever weird new tech shows up in the process.

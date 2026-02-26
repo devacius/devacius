@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deepansh Gupta</h1> <h3 align="center"> Software Developer and unapologetic Anime Enjoyer from India</h3> 
+<h1 align="center">Hi, I'm Deepansh Gupta</h1> <h3 align="center"> Software Developer and ...</h3> 
 I’m currently working as a Full Stack Developer at a US-based startup, building things that occasionally behave on the first try (miracles do happen).
 
 These days I’m diving deep into LLMs, Machine Learning, and Artificial Intelligence—because apparently I wasn’t confused enough already.
